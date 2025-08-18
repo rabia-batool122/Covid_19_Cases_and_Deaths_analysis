@@ -21,7 +21,7 @@ plt.show()
 
 #### Results
 
-![Visualization of Most Reported Deaths Top 10 Countries](images/Death_By_Countries_Africa.png)
+![Visualization of Most Reported Deaths Top 10 Countries](1_COVID-19_C_and_D/images/Death_By_Countries_Africa.png)
 
 ### Insights
  - 
@@ -51,7 +51,7 @@ plt.show()
 
 #### Results
 
-![Visualization of Most Reported Cases by Top 10 Countries](images/Cases_Countries_Asia.png)
+![Visualization of Most Reported Cases by Top 10 Countries](1_COVID-19_C_and_D/images/Cases_Countries_Asia.png)
 
 ### Insights
 - 
@@ -81,7 +81,7 @@ plt.show()
 ```
 
 #### Results
-![Visualizing the comparison of Deaths and Cases by Countries of the given Continent](Comparison_countries_Europe.png)
+![Visualizing the comparison of Deaths and Cases by Countries of the given Continent](images/Comparison_countries_Europe.png)
 
 ### Insights
 - 
@@ -112,7 +112,7 @@ plt.show()
 ```
 
 #### Results
-![Visualizing the comparison of Deaths and Cases by Continent](Continent_Comparison.png)
+![Visualizing the comparison of Deaths and Cases by Continent](images/Continent_Comparison.png)
 
  
 ### Insights
